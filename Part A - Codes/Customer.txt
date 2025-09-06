@@ -1,0 +1,6 @@
+StudentAccount,1233,-1500.0,Jake,Hill,12C,Brunswick,Leeds,L23 3ER
+StudentAccount,1234,2500.0,Ali,Hassan,20C,Heathway,Leeds,LE34 4RT
+BasicAccount,1238,-2500.0,Lisa,Smith,12W,street-Close,Brighton,BR45 5RT
+PremiumAccount,1232,2500.0,Adam,Smith,12W,Windsow,London,E45 5RT
+PremiumAccount,1237,2500.0,Mohamed,Ahmed ,25C,Bruneswood,Birmingham,B34 4ER
+BasicAccount,1231,6500.0,Adam,Hamid,23C,Thinstreet,Birmingham,T56 6TH
